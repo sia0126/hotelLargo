@@ -452,6 +452,7 @@ article .txt:hover i{
   }
   .gnb li{
     float: none;
+    margin-bottom: 10px;
   }
   .gnb li a{
     display: block;
@@ -461,6 +462,7 @@ article .txt:hover i{
     line-height: 40px;
     width: 60vw;
     border-radius: 8px;
+    transform: translateX(-250px);
   }
   .gnb li a:hover{
     background: rgba(0, 0, 0, 0.1);
